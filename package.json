@@ -1,0 +1,22 @@
+{
+  "name": "webapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gingijons/LabsHugb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gingijons/LabsHugb/issues"
+  },
+  "homepage": "https://github.com/gingijons/LabsHugb#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
